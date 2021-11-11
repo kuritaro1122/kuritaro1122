@@ -5,10 +5,10 @@ https://kuritaro1122.github.io/
 
 ### Repository
 [Unity]
-* EntityStatus <https://github.com/kuritaro1122/EntityStatus>
-* EntityActionCon <https://github.com/kuritaro1122/EntityActionCon>
-* ClampCamera2D <https://github.com/kuritaro1122/ClampCamera2D>
-* SnakeMovement <https://github.com/kuritaro1122/SnakeMovement>
+* EntityStatus https://github.com/kuritaro1122/EntityStatus
+* EntityActionCon https://github.com/kuritaro1122/EntityActionCon
+* ClampCamera2D https://github.com/kuritaro1122/ClampCamera2D
+* SnakeMovement https://github.com/kuritaro1122/SnakeMovement
 
 <!--
 **kuritaro1122/kuritaro1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
