@@ -16,17 +16,17 @@ Link https://github.com/kuritaro1122/EntityStatus
 
 # EntityActionCon
 Entityに命令を付与し、非同期的に逐次実行する。\
-[FunctionExecutor](https://github.com/kuritaro1122/FunctionExecuter)の派生プログラムです。
+[FunctionExecutor](https://github.com/kuritaro1122/FunctionExecuter)の派生プログラムです。\
 Link https://github.com/kuritaro1122/EntityActionCon
 
 # FunctionExecutor
 GameObjectに命令を付与し、非同期的に逐次実行する。\
-[EntityActionCon](https://github.com/kuritaro1122/EntityActionCon)の基底プログラムです。
+[EntityActionCon](https://github.com/kuritaro1122/EntityActionCon)の基底プログラムです。\
 Link https://github.com/kuritaro1122/FunctionExecuter
 
 # STGOptionMovement
 オブジェクトの座標と回転を一定距離空けてトレースする。\
-[HyperNova](https://kuritaro1122.github.io/HyperNova-Web/)のオプション砲移動処理にこのプログラムを使用しています。
+[HyperNova](https://kuritaro1122.github.io/HyperNova-Web/)のオプション砲移動処理にこのプログラムを使用しています。\
 ![img2](https://github.com/kuritaro1122/STGOptionMovement/blob/main/img/demo.gif?raw=true)\
 Link https://github.com/kuritaro1122/STGOptionMovement
 
