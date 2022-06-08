@@ -5,8 +5,6 @@ https://kuritaro1122.github.io/
 
 # Repository
 
-### Unity
-
 ## EntityStatus
 GameObjectにHPと攻撃力を付与し、それらのステータスを管理する。
 Entity同士が接触した時に自動的に相互にダメージを与える。\
