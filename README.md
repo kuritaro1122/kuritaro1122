@@ -5,6 +5,8 @@ https://kuritaro1122.github.io/
 
 ### Repository
 [Unity]
+![img1](https://github.com/kuritaro1122/EntityStatus/blob/main/img/demo.gif?raw=true)
+(https://github.com/kuritaro1122/EntityStatus/blob/main/img/demo.gif?raw=true)
 * EntityStatus https://github.com/kuritaro1122/EntityStatus
 * EntityActionCon https://github.com/kuritaro1122/EntityActionCon
 * ClampCamera2D https://github.com/kuritaro1122/ClampCamera2D
