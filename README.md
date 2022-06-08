@@ -12,7 +12,7 @@ GameObjectにHPと攻撃力を付与し、それらのステータスを管理�
 Entity同士が接触した時に自動的に相互にダメージを与える。\
 プレイヤー、エネミー、ショットや障害物など当たり判定周りのほとんどの処理がこのプログラムで完結します。
 ![img1](https://github.com/kuritaro1122/EntityStatus/blob/main/img/demo.gif?raw=true)\
-* Link https://github.com/kuritaro1122/EntityStatus
+Link https://github.com/kuritaro1122/EntityStatus
 
 
 * EntityActionCon https://github.com/kuritaro1122/EntityActionCon
