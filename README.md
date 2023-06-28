@@ -1,38 +1,35 @@
-## Hi there 👋
+# My Works
+![](https://github-readme-stats.vercel.app/api?username=kuritaro1122&hide=contribs&include_all_commits=true&count_private=true) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kuritaro1122&layout=compact&card_width=100&hide=css,html,javascript)
 
-# My works
-https://kuritaro1122.github.io/
+<a href="https://store.steampowered.com/app/1977840/HyperNova/"><img src="img/hypernova.png" width=30%></a>
+<a href="https://unityroom.com/games/mushi_musou"><img src="img/mushimusou.png" width=30%></a>
+<a href="https://tdusrc.booth.pm/items/4454662"><img src="img/scrappian2.png" width=30%></a>
+<a href="https://unityroom.com/games/oshougatsu_2023"><img src="img/oshougatsu.png" width=30%></a>
+<a href="https://www.lexaloffle.com/bbs/?tid=47007"><img src="img/puzzleleague_0.gif" width=17%></a>
+<a href="https://www.lexaloffle.com/bbs/?pid=110275"><img src="img/snakegame.gif" width=17%></a>
+
+Please check [Kuritaro Lab](https://kuritaro1122.github.io/)!!
+
+or [twitter](https://twitter.com/S_KuriKun)
 
 # Repository
 
-## EntityStatus
-GameObjectにHPと攻撃力を付与し、それらのステータスを管理する。
-Entity同士が接触した時に自動的に相互にダメージを与える。\
-プレイヤー、エネミー、ショットや障害物など当たり判定周りのほとんどの処理がこのプログラムで完結します。
-![img1](https://github.com/kuritaro1122/EntityStatus/blob/main/img/demo.gif?raw=true)\
-Link https://github.com/kuritaro1122/EntityStatus
-
-## EntityActionCon
-Entityに命令を付与し、非同期的に逐次実行する。\
-[FunctionExecutor](https://github.com/kuritaro1122/FunctionExecuter)の派生プログラムです。\
-Link https://github.com/kuritaro1122/EntityActionCon
-
-## FunctionExecutor
-GameObjectに命令を付与し、非同期的に逐次実行する。\
-[EntityActionCon](https://github.com/kuritaro1122/EntityActionCon)の基底プログラムです。\
-Link https://github.com/kuritaro1122/FunctionExecuter
-
-## STGOptionMovement
-オブジェクトの座標と回転を一定距離空けてトレースする。\
-[HyperNova](https://kuritaro1122.github.io/HyperNova-Web/)のオプション砲移動処理にこのプログラムを使用しています。\
-![img2](https://github.com/kuritaro1122/STGOptionMovement/blob/main/img/demo.gif?raw=true)\
-Link https://github.com/kuritaro1122/STGOptionMovement
-
-## ClampCamera2D
-オブジェクトの座標を自然に制限する。\
-![img3](https://user-images.githubusercontent.com/62167170/135420826-ba6d20b7-b309-40db-996b-9e0dcee97285.png)\
-Link https://github.com/kuritaro1122/ClampCamera2D
-
+## Unity
+* [ObjectOrderController](https://github.com/kuritaro1122/ObjectOrderController): オブジェクトに命令を付与
+* [KuriKit-SimpleGameKit](https://github.com/kuritaro1122/KuriKit-SimpleGameKit): ゲームのステート管理
+* [SaveDataManagerForUnity](https://github.com/komihori/SaveDataManagerForUnity): 暗号化されたローカルセーブデータ
+* [SoundManager](https://github.com/komihori/SoundManager): AudioLisnerを簡単に実装
+* [ModelPivotCompensator](https://github.com/kuritaro1122/ModelPivotCompensator): モデルのピボットを合わせる
+* [UISliderStepAdjuster](https://github.com/kuritaro1122/UISliderStepAdjuster): Sliderの変更幅を調整する
+* [LineUpGameObject](https://github.com/kuritaro1122/LineUpGameObject): オブジェクトを複製して並べる
+* [EntityStatus](https://github.com/kuritaro1122/EntityStatus): HPや攻撃力を管理, 接触時自動攻撃
+* [ClampCamera2D](https://github.com/kuritaro1122/ClampCamera2D): グローバル座標をカメラ内座標で管理する
+## Python
+* [OthelloArenaPython](https://github.com/kuritaro1122/OthelloArenaPython):
+* [OthelloArenaPython-PyxelGUI](https://github.com/kuritaro1122/OthelloArenaPython-PyxelGUI):
+* [PictureEdit](https://github.com/kuritaro1122/PictureEdit): 画像加工
+---
 
 <!--
 **kuritaro1122/kuritaro1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
