@@ -25,6 +25,7 @@ or [twitter](https://twitter.com/S_KuriKun)
 * [LineUpGameObject](https://github.com/kuritaro1122/LineUpGameObject): オブジェクトを複製して並べる
 * [EntityStatus](https://github.com/kuritaro1122/EntityStatus): HPや攻撃力を管理, 接触時自動攻撃
 * [ClampCamera2D](https://github.com/kuritaro1122/ClampCamera2D): グローバル座標をカメラ内座標で管理する
+* [WindowStateManager](https://github.com/kuritaro1122/WindowStateManagement): ウィンドウ切り替え管理
 ## Python
 * [OthelloArenaPython](https://github.com/kuritaro1122/OthelloArenaPython):
 * [OthelloArenaPython-PyxelGUI](https://github.com/kuritaro1122/OthelloArenaPython-PyxelGUI):
