@@ -19,7 +19,7 @@ or [twitter](https://twitter.com/S_KuriKun)
 * [ObjectOrderController](https://github.com/kuritaro1122/ObjectOrderController): オブジェクトに命令を付与
 * [KuriKit-SimpleGameKit](https://github.com/kuritaro1122/KuriKit-SimpleGameKit): ゲームのステート管理
 * [SaveDataManagerForUnity](https://github.com/komihori/SaveDataManagerForUnity): 暗号化されたローカルセーブデータ
-* [SoundManager](https://github.com/komihori/SoundManager): AudioLisnerを簡単に実装
+* [SoundManager](https://github.com/komihori/SoundManager): Unity.Audioのサウンドマネージャー
 * [ModelPivotCompensator](https://github.com/kuritaro1122/ModelPivotCompensator): モデルのピボットを合わせる
 * [UISliderStepAdjuster](https://github.com/kuritaro1122/UISliderStepAdjuster): Sliderの変更幅を調整する
 * [LineUpGameObject](https://github.com/kuritaro1122/LineUpGameObject): オブジェクトを複製して並べる
